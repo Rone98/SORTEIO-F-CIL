@@ -58,3 +58,10 @@ button:active {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
     background: linear-gradient(0.25turn, #c30c0c, #000000);
 }
+
+
+.Resultado {
+    margin-left: 299px;
+    height: 80px;
+
+}
