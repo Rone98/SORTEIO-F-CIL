@@ -22,11 +22,12 @@ body {
 
 
 img {
-    height: 500px;
+    height: 200px;
+    margin-left: 200px;
 }
 
 h1 {
-    font-size: 112px;
+    font-size: 90px;
 }
 
 h2 {
